@@ -3,6 +3,9 @@
 
 **MeshHedging** is a Java library for computing (approximately) optimal policies for portfolio hedging problems, using stochastic mesh methods.
 
+It was developped in the context of my PhD studies, under the supervision of [Pierre L'Ecuyer](http://www-labs.iro.umontreal.ca/~lecuyer/) 
+at the [Department of Computer Science and Operations Research](http://en.diro.umontreal.ca/home/) of Université de Montréal. 
+
 ## Documentation 
 
 A short presentation of the classes of the MeshHedging library is available in section 5.1
