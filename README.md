@@ -9,7 +9,7 @@ A short presentation of the classes of the MeshHedging library is available in s
 of my doctoral [thesis](https://github.com/average3101/MeshHedging/blob/master/PATremblay_thesis_meshhedging.pdf).
 
 
-## Authors
+## Author
 
 * **Pierre-Alexandre Tremblay**
 
